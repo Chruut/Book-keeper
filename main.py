@@ -2,7 +2,10 @@ from tkinter import *
 from tkinter import filedialog    
 from IPython.display import display
 import pandas as pd
+import panel as pn
+import numpy as np
 import matplotlib.pyplot as plt  
+from matplotlib.figure import Figure
 
 columns = ['Text','Credit/Debit Amount', 'Balance','Category','Booked At','Month','Year']
 options = ["Necessities", "Transport", "Groceries", "Treats", "Investment", "Business", "Shopping/Entertainment", "Selfcare", "Travel", "Other"] # Necessities = Rent, Insurance, Phone
