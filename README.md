@@ -1,3 +1,3 @@
 # DIY Accounting Tool
 
-A lightweight financial accounting tool which converts csv files with transactional data from your bank account into a nice interactive Overview in your Browser and helps you to keep track of your biggest Money drains. 
+A lightweight financial accounting tool which converts transactional data from a bank account into a clear, interactive overview. Bring browser-based it is platform-independent and leaves you no excuses anymore to not take care of your money drains. 
